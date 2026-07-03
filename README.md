@@ -506,9 +506,10 @@ NT AUTHORITY\SYSTEM
 This machine demonstrates a realistic Active Directory privilege escalation scenario where an initially low-privileged domain user leverages object control permissions to compromise the Domain Controller. By abusing GenericAll over the domain controller computer object, creating a controlled machine account, configuring Resource-Based Constrained Delegation, and leveraging Kerberos S4U extensions, it is possible to impersonate the domain Administrator and obtain a SYSTEM shell on the Domain Controller without ever knowing the Administrator's password. This attack chain highlights the importance of properly auditing Active Directory permissions and understanding the security implications of delegation and ACL misconfigurations.
 
 ---
----
+
 LinkedIn: [
 
 X: [https://x.com/charisma1385/status/2072796246041887074]
+
 ---
 #HackTheBox #HTB #Support #Windows #ActiveDirectory #AD #BloodHound #SharpHound #GenericAll #ACLAbuse #RBCD #ResourceBasedConstrainedDelegation #Kerberos #S4U #S4U2Self #S4U2Proxy #WinRM #SMB #LDAP #Impacket #PsExec #PrivilegeEscalation #DomainController #RedTeam #PenetrationTesting #CyberSecurity #Writeup
