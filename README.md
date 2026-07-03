@@ -507,7 +507,7 @@ This machine demonstrates a realistic Active Directory privilege escalation scen
 
 ---
 
-LinkedIn: [
+LinkedIn: [https://www.linkedin.com/feed/update/urn:li:activity:7478726492751966208/]
 
 X: [https://x.com/charisma1385/status/2072796246041887074]
 
